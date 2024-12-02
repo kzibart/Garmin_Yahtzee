@@ -1,0 +1,711 @@
+[ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 1; ]
+import Toybox.Lang;
+[ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 2; ]
+import Toybox.WatchUi;
+[ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 4; ]
+class YahtzeeDelegate extends WatchUi.BehaviorDelegate{
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 4; ]
+    <init> {
+    }
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 4; ]
+    static
+    <init> {
+    }
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 6; ]
+    function initialize() as Void {
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_6_26_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 7 8 ]
+        %tmp.2 = getv ? :BehaviorDelegate;
+        %tmp.3 = getv function %tmp.2 :initialize;
+        invoke %tmp.2 %tmp.3();
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_6_26_stop:
+    }
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 10; ]
+    function onMenu() as Boolean {
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_10_33_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 11 8 ]
+        %tmp.1 = getm $.Toybox.WatchUi;
+        %tmp.2 = getv function %tmp.1 :pushView;
+        %tmp.6 = getv ? :YahtzeeSettings;
+        %tmp.3 = newc %tmp.6 ();
+        %tmp.10 = getv ? :YahtzeeMenuDelegate;
+        %tmp.7 = newc %tmp.10 ();
+        %tmp.11 = getm $.Toybox.WatchUi;
+        %tmp.12 = getv %tmp.11 :SLIDE_UP;
+        invoke %tmp.1 %tmp.2(%tmp.3, %tmp.7, %tmp.12);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 12 8 ]
+        %tmp.13 = true;
+        ret %tmp.13;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_10_33_stop:
+    }
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 15; ]
+    function onTap(clickEvent) as Boolean {
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 16 8 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_stop" ]
+        %xy.1 = local;
+        %tmp.1 = lgetv %clickEvent;
+        %tmp.2 = getv function %tmp.1 :getCoordinates;
+        %tmp.3 = invoke %tmp.1 %tmp.2();
+        lputv %xy.1 %tmp.3;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 17 0 ]
+        %tmp.5 = getv ? :System;
+        %tmp.6 = getv function %tmp.5 :println;
+        %tmp.8 = lgetv %xy.1;
+        invoke %tmp.5 %tmp.6(%tmp.8);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 18 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_8_if_stmt:
+        %tmp.10 = getv ? :histmode;
+        bf %tmp.10 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_22_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 19 12 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_12_if_stmt:
+        %tmp.11 = self;
+        %tmp.12 = getv function %tmp.11 :inbox;
+        %tmp.13 = newa 2;
+        %tmp.15 = getv ? :newX;
+        %tmp.16 = dup %tmp.13;
+        %tmp.17 = aputv %tmp.16 0 %tmp.15;
+        %tmp.19 = getv ? :newY;
+        %tmp.20 = dup %tmp.17;
+        %tmp.21 = aputv %tmp.20 1 %tmp.19;
+        %tmp.22 = newa 2;
+        %tmp.24 = getv ? :buttonW;
+        %tmp.25 = dup %tmp.22;
+        %tmp.26 = aputv %tmp.25 0 %tmp.24;
+        %tmp.28 = getv ? :buttonH;
+        %tmp.29 = dup %tmp.26;
+        %tmp.30 = aputv %tmp.29 1 %tmp.28;
+        %tmp.32 = lgetv %xy.1;
+        %tmp.33 = invoke %tmp.11 %tmp.12(%tmp.21, %tmp.30, %tmp.32);
+        bf %tmp.33 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_12_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_12_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_57_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 20 16 ]
+        %tmp.34 = self;
+        %tmp.35 = getv function %tmp.34 :showhighscores;
+        %tmp.36 = -1;
+        invoke %tmp.34 %tmp.35(%tmp.36);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 21 16 ]
+        %tmp.37 = true;
+        ret %tmp.37;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_57_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_12_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_19_12_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_22_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_18_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 24 8 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_stop" ]
+        %state.2 = local;
+        %tmp.39 = getv ? :game;
+        %tmp.40 = getv function %tmp.39 :get;
+        %tmp.41 = "state";
+        %tmp.42 = invoke %tmp.39 %tmp.40(%tmp.41);
+        lputv %state.2 %tmp.42;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 25 8 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_stop" ]
+        %scores.3 = local;
+        %tmp.44 = getv ? :game;
+        %tmp.45 = getv function %tmp.44 :get;
+        %tmp.46 = "scores";
+        %tmp.47 = invoke %tmp.44 %tmp.45(%tmp.46);
+        lputv %scores.3 %tmp.47;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 26 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_8_if_stmt:
+        %tmp.48 = self;
+        %tmp.49 = getv function %tmp.48 :inbox;
+        %tmp.50 = newa 2;
+        %tmp.52 = getv ? :newX;
+        %tmp.53 = dup %tmp.50;
+        %tmp.54 = aputv %tmp.53 0 %tmp.52;
+        %tmp.56 = getv ? :newY;
+        %tmp.57 = dup %tmp.54;
+        %tmp.58 = aputv %tmp.57 1 %tmp.56;
+        %tmp.59 = newa 2;
+        %tmp.61 = getv ? :buttonW;
+        %tmp.62 = dup %tmp.59;
+        %tmp.63 = aputv %tmp.62 0 %tmp.61;
+        %tmp.65 = getv ? :buttonH;
+        %tmp.66 = dup %tmp.63;
+        %tmp.67 = aputv %tmp.66 1 %tmp.65;
+        %tmp.69 = lgetv %xy.1;
+        %tmp.70 = invoke %tmp.48 %tmp.49(%tmp.58, %tmp.67, %tmp.69);
+        bf %tmp.70 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_53_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 27 12 ]
+        %tmp.71 = self;
+        %tmp.72 = getv function %tmp.71 :newgame;
+        invoke %tmp.71 %tmp.72();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 28 12 ]
+        %tmp.73 = getm $.Toybox.WatchUi;
+        %tmp.74 = getv function %tmp.73 :requestUpdate;
+        invoke %tmp.73 %tmp.74();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 29 12 ]
+        %tmp.75 = true;
+        ret %tmp.75;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_53_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_26_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 31 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_8_if_stmt:
+        %tmp.77 = getv ? :canroll;
+        %tmp.78 = self;
+        %tmp.79 = getv function %tmp.78 :inbox;
+        %tmp.80 = newa 2;
+        %tmp.82 = getv ? :rollX;
+        %tmp.83 = dup %tmp.80;
+        %tmp.84 = aputv %tmp.83 0 %tmp.82;
+        %tmp.86 = getv ? :rollY;
+        %tmp.87 = dup %tmp.84;
+        %tmp.88 = aputv %tmp.87 1 %tmp.86;
+        %tmp.89 = newa 2;
+        %tmp.91 = getv ? :buttonW;
+        %tmp.92 = dup %tmp.89;
+        %tmp.93 = aputv %tmp.92 0 %tmp.91;
+        %tmp.95 = getv ? :buttonH;
+        %tmp.96 = dup %tmp.93;
+        %tmp.97 = aputv %tmp.96 1 %tmp.95;
+        %tmp.99 = lgetv %xy.1;
+        %tmp.100 = invoke %tmp.78 %tmp.79(%tmp.88, %tmp.97, %tmp.99);
+        %tmp.101 = bitand %tmp.77 %tmp.100;
+        bf %tmp.101 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_65_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 32 12 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_12_if_stmt:
+        %tmp.103 = lgetv %state.2;
+        %tmp.104 = 0;
+        %tmp.105 = eq %tmp.103 %tmp.104;
+        bf %tmp.105 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_12_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_12_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_28_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 32 30 ]
+        %tmp.106 = self;
+        %tmp.107 = getv function %tmp.106 :newgame;
+        invoke %tmp.106 %tmp.107();
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_28_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_12_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_32_12_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 33 12 ]
+        %tmp.108 = lgetv %state.2;
+        %tmp.109 = 1;
+        %tmp.110 = add %tmp.108 %tmp.109;
+        lputv %state.2 %tmp.110;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 34 12 ]
+        %tmp.112 = getv ? :game;
+        %tmp.113 = getv function %tmp.112 :put;
+        %tmp.114 = "state";
+        %tmp.116 = lgetv %state.2;
+        invoke %tmp.112 %tmp.113(%tmp.114, %tmp.116);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 35 12 ]
+        %tmp.117 = self;
+        %tmp.118 = getv function %tmp.117 :rolldice;
+        invoke %tmp.117 %tmp.118();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 36 12 ]
+        %tmp.119 = getm $.Toybox.WatchUi;
+        %tmp.120 = getv function %tmp.119 :requestUpdate;
+        invoke %tmp.119 %tmp.120();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 37 12 ]
+        %tmp.121 = true;
+        ret %tmp.121;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_65_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_31_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 39 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_8_if_stmt:
+        %tmp.123 = getv ? :canscore;
+        %tmp.124 = self;
+        %tmp.125 = getv function %tmp.124 :inbox;
+        %tmp.126 = newa 2;
+        %tmp.128 = getv ? :scoreX;
+        %tmp.129 = dup %tmp.126;
+        %tmp.130 = aputv %tmp.129 0 %tmp.128;
+        %tmp.132 = getv ? :scoreY;
+        %tmp.133 = dup %tmp.130;
+        %tmp.134 = aputv %tmp.133 1 %tmp.132;
+        %tmp.135 = newa 2;
+        %tmp.137 = getv ? :buttonW;
+        %tmp.138 = dup %tmp.135;
+        %tmp.139 = aputv %tmp.138 0 %tmp.137;
+        %tmp.141 = getv ? :buttonH;
+        %tmp.142 = dup %tmp.139;
+        %tmp.143 = aputv %tmp.142 1 %tmp.141;
+        %tmp.145 = lgetv %xy.1;
+        %tmp.146 = invoke %tmp.124 %tmp.125(%tmp.134, %tmp.143, %tmp.145);
+        %tmp.147 = bitand %tmp.123 %tmp.146;
+        bf %tmp.147 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_68_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 40 12 ]
+        %tmp.148 = 3;
+        lputv %state.2 %tmp.148;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 41 12 ]
+        %tmp.150 = getv ? :game;
+        %tmp.151 = getv function %tmp.150 :put;
+        %tmp.152 = "state";
+        %tmp.154 = lgetv %state.2;
+        invoke %tmp.150 %tmp.151(%tmp.152, %tmp.154);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 42 12 ]
+        %tmp.155 = getm $.Toybox.WatchUi;
+        %tmp.156 = getv function %tmp.155 :requestUpdate;
+        invoke %tmp.155 %tmp.156();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 43 12 ]
+        %tmp.157 = true;
+        ret %tmp.157;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_68_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_39_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 45 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_8_if_stmt:
+        %tmp.159 = getv ? :canhold;
+        bf %tmp.159 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_21_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 46 12 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_21_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_21_stop" ]
+        %held.4 = local;
+        %tmp.161 = getv ? :game;
+        %tmp.162 = getv function %tmp.161 :get;
+        %tmp.163 = "held";
+        %tmp.164 = invoke %tmp.161 %tmp.162(%tmp.163);
+        lputv %held.4 %tmp.164;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 47 12 ]
+        for @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_test @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_incr @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_init:
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_begin" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_end" ]
+        %i.5 = local;
+        %tmp.165 = 0;
+        lputv %i.5 %tmp.165;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_test:
+        %tmp.167 = lgetv %i.5;
+        %tmp.168 = 5;
+        %tmp.169 = lt %tmp.167 %tmp.168;
+        bf %tmp.169 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_begin:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_34_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 48 16 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_16_if_stmt:
+        %tmp.170 = self;
+        %tmp.171 = getv function %tmp.170 :inbox;
+        %tmp.172 = newa 2;
+        %tmp.174 = getv ? :dieX;
+        %tmp.176 = lgetv %i.5;
+        %tmp.177 = agetv %tmp.174 %tmp.176;
+        %tmp.178 = dup %tmp.172;
+        %tmp.179 = aputv %tmp.178 0 %tmp.177;
+        %tmp.181 = getv ? :dieY;
+        %tmp.183 = lgetv %i.5;
+        %tmp.184 = agetv %tmp.181 %tmp.183;
+        %tmp.185 = dup %tmp.179;
+        %tmp.186 = aputv %tmp.185 1 %tmp.184;
+        %tmp.187 = newa 2;
+        %tmp.189 = getv ? :dieW;
+        %tmp.190 = dup %tmp.187;
+        %tmp.191 = aputv %tmp.190 0 %tmp.189;
+        %tmp.193 = getv ? :dieH;
+        %tmp.194 = dup %tmp.191;
+        %tmp.195 = aputv %tmp.194 1 %tmp.193;
+        %tmp.197 = lgetv %xy.1;
+        %tmp.198 = invoke %tmp.170 %tmp.171(%tmp.186, %tmp.195, %tmp.197);
+        bf %tmp.198 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_16_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_61_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 49 20 ]
+        %tmp.199 = lgetv %held.4;
+        %tmp.201 = lgetv %held.4;
+        %tmp.203 = lgetv %i.5;
+        %tmp.204 = agetv %tmp.201 %tmp.203;
+        %tmp.205 = not %tmp.204;
+        %tmp.207 = lgetv %i.5;
+        aputv %tmp.199 %tmp.207 %tmp.205;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 50 20 ]
+        %tmp.209 = getv ? :game;
+        %tmp.210 = getv function %tmp.209 :put;
+        %tmp.211 = "held";
+        %tmp.213 = lgetv %held.4;
+        invoke %tmp.209 %tmp.210(%tmp.211, %tmp.213);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 51 20 ]
+        %tmp.214 = getm $.Toybox.WatchUi;
+        %tmp.215 = getv function %tmp.214 :requestUpdate;
+        invoke %tmp.214 %tmp.215();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 52 20 ]
+        %tmp.216 = true;
+        ret %tmp.216;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_61_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_48_16_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_34_stop:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_incr:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 47 ]
+        %tmp.219 = lgetv %i.5;
+        %tmp.220 = add %tmp.219 1;
+        lputv %i.5 %tmp.220;
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_test;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_47_12_for_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_21_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_45_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 56 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_8_if_stmt:
+        %tmp.222 = lgetv %state.2;
+        %tmp.223 = 3;
+        %tmp.224 = eq %tmp.222 %tmp.223;
+        bf %tmp.224 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_24_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 57 12 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_24_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_24_stop" ]
+        %remaining.6 = local;
+        %tmp.225 = lgetv %scores.3;
+        %tmp.226 = getv function %tmp.225 :size;
+        %tmp.227 = invoke %tmp.225 %tmp.226();
+        lputv %remaining.6 %tmp.227;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 58 12 ]
+        for @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_test @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_incr @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_init:
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_begin" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_end" ]
+        %i.7 = local;
+        %tmp.228 = 0;
+        lputv %i.7 %tmp.228;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_test:
+        %tmp.230 = lgetv %i.7;
+        %tmp.231 = lgetv %scores.3;
+        %tmp.232 = getv function %tmp.231 :size;
+        %tmp.233 = invoke %tmp.231 %tmp.232();
+        %tmp.234 = lt %tmp.230 %tmp.233;
+        bf %tmp.234 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_begin:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_46_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 59 16 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_16_if_stmt:
+        %tmp.236 = lgetv %scores.3;
+        %tmp.238 = lgetv %i.7;
+        %tmp.239 = agetv %tmp.236 %tmp.238;
+        %tmp.240 = -1;
+        %tmp.241 = ne %tmp.239 %tmp.240;
+        bf %tmp.241 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_16_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_37_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 60 20 ]
+        %tmp.242 = lgetv %remaining.6;
+        %tmp.243 = 1;
+        %tmp.244 = sub %tmp.242 %tmp.243;
+        lputv %remaining.6 %tmp.244;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_37_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_59_16_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_46_stop:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_incr:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 58 ]
+        %tmp.247 = lgetv %i.7;
+        %tmp.248 = add %tmp.247 1;
+        lputv %i.7 %tmp.248;
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_test;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_58_12_for_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 63 12 ]
+        for @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_test @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_incr @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_init:
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_begin" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_end" ]
+        %i.8 = local;
+        %tmp.249 = 0;
+        lputv %i.8 %tmp.249;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_test:
+        %tmp.251 = lgetv %i.8;
+        %tmp.252 = lgetv %scores.3;
+        %tmp.253 = getv function %tmp.252 :size;
+        %tmp.254 = invoke %tmp.252 %tmp.253();
+        %tmp.255 = lt %tmp.251 %tmp.254;
+        bf %tmp.255 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_begin:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_46_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 64 16 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_16_if_stmt:
+        %tmp.257 = lgetv %scores.3;
+        %tmp.259 = lgetv %i.8;
+        %tmp.260 = agetv %tmp.257 %tmp.259;
+        %tmp.261 = -1;
+        %tmp.262 = eq %tmp.260 %tmp.261;
+        bf %tmp.262 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_16_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_37_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 65 20 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_20_if_stmt:
+        %tmp.263 = self;
+        %tmp.264 = getv function %tmp.263 :inbox;
+        %tmp.265 = newa 2;
+        %tmp.267 = getv ? :scoresX;
+        %tmp.269 = lgetv %i.8;
+        %tmp.270 = agetv %tmp.267 %tmp.269;
+        %tmp.271 = dup %tmp.265;
+        %tmp.272 = aputv %tmp.271 0 %tmp.270;
+        %tmp.274 = getv ? :scoresY;
+        %tmp.276 = lgetv %i.8;
+        %tmp.277 = agetv %tmp.274 %tmp.276;
+        %tmp.278 = dup %tmp.272;
+        %tmp.279 = aputv %tmp.278 1 %tmp.277;
+        %tmp.280 = newa 2;
+        %tmp.282 = getv ? :scoresW;
+        %tmp.283 = dup %tmp.280;
+        %tmp.284 = aputv %tmp.283 0 %tmp.282;
+        %tmp.286 = getv ? :scoresH;
+        %tmp.287 = dup %tmp.284;
+        %tmp.288 = aputv %tmp.287 1 %tmp.286;
+        %tmp.290 = lgetv %xy.1;
+        %tmp.291 = invoke %tmp.263 %tmp.264(%tmp.279, %tmp.288, %tmp.290);
+        bf %tmp.291 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_20_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_20_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_77_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 66 24 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_24_if_stmt:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_28_begin:
+        %tmp.293 = lgetv %scores.3;
+        %tmp.294 = 13;
+        %tmp.295 = agetv %tmp.293 %tmp.294;
+        %tmp.296 = 0;
+        %tmp.297 = gt %tmp.295 %tmp.296;
+        %tmp.298 = dup %tmp.297;
+        bf %tmp.298 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_47_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_47_true:
+        %tmp.300 = getv ? :pscores;
+        %tmp.301 = 13;
+        %tmp.302 = agetv %tmp.300 %tmp.301;
+        %tmp.303 = 50;
+        %tmp.304 = eq %tmp.302 %tmp.303;
+        %tmp.305 = and %tmp.297 %tmp.304;
+        push %tmp.305;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_47_end:
+        %tmp.306 = phi [%tmp.298 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_28_begin] [%tmp.305 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_47_true] [%tmp.306 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_47_end];
+        bf %tmp.306 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_24_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_24_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_66_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 67 28 ]
+        %tmp.307 = lgetv %scores.3;
+        %tmp.308 = lgetv %scores.3;
+        %tmp.309 = 13;
+        %tmp.310 = agetv %tmp.308 %tmp.309;
+        %tmp.311 = 100;
+        %tmp.312 = add %tmp.310 %tmp.311;
+        %tmp.313 = 13;
+        aputv %tmp.307 %tmp.313 dup %tmp.312;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_66_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_24_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_66_24_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 69 24 ]
+        %tmp.314 = lgetv %scores.3;
+        %tmp.316 = getv ? :pscores;
+        %tmp.318 = lgetv %i.8;
+        %tmp.319 = agetv %tmp.316 %tmp.318;
+        %tmp.321 = lgetv %i.8;
+        aputv %tmp.314 %tmp.321 %tmp.319;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 70 24 ]
+        %tmp.323 = getv ? :game;
+        %tmp.324 = getv function %tmp.323 :put;
+        %tmp.325 = "scores";
+        %tmp.327 = lgetv %scores.3;
+        invoke %tmp.323 %tmp.324(%tmp.325, %tmp.327);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 71 24 ]
+        %tmp.328 = self;
+        %tmp.329 = getv function %tmp.328 :calcscore;
+        invoke %tmp.328 %tmp.329();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 72 24 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_stmt:
+        %tmp.331 = lgetv %remaining.6;
+        %tmp.332 = 1;
+        %tmp.333 = gt %tmp.331 %tmp.332;
+        bf %tmp.333 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_false;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_43_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 73 28 ]
+        %tmp.334 = 1;
+        lputv %state.2 %tmp.334;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 74 28 ]
+        %tmp.336 = getv ? :game;
+        %tmp.337 = getv function %tmp.336 :put;
+        %tmp.338 = "state";
+        %tmp.340 = lgetv %state.2;
+        invoke %tmp.336 %tmp.337(%tmp.338, %tmp.340);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 75 28 ]
+        %tmp.341 = self;
+        %tmp.342 = getv function %tmp.341 :rolldice;
+        invoke %tmp.341 %tmp.342();
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_43_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_false:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_76_31_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 77 28 ]
+        %tmp.343 = 0;
+        lputv %state.2 %tmp.343;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 78 28 ]
+        %tmp.345 = getv ? :game;
+        %tmp.346 = getv function %tmp.345 :put;
+        %tmp.347 = "state";
+        %tmp.349 = lgetv %state.2;
+        invoke %tmp.345 %tmp.346(%tmp.347, %tmp.349);
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 79 28 ]
+        [ "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_76_31_start" "C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_76_31_stop" ]
+        %pos.9 = local;
+        %tmp.350 = self;
+        %tmp.351 = getv function %tmp.350 :savehistory;
+        %tmp.352 = invoke %tmp.350 %tmp.351();
+        lputv %pos.9 %tmp.352;
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 80 28 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_28_if_stmt:
+        %tmp.354 = lgetv %pos.9;
+        %tmp.355 = -1;
+        %tmp.356 = ne %tmp.354 %tmp.355;
+        bf %tmp.356 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_28_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_28_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_43_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 81 32 ]
+        %tmp.357 = self;
+        %tmp.358 = getv function %tmp.357 :showhighscores;
+        %tmp.360 = lgetv %pos.9;
+        invoke %tmp.357 %tmp.358(%tmp.360);
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_43_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_28_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_80_28_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_76_31_stop:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_72_24_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 84 24 ]
+        %tmp.361 = getm $.Toybox.WatchUi;
+        %tmp.362 = getv function %tmp.361 :requestUpdate;
+        invoke %tmp.361 %tmp.362();
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 85 24 ]
+        %tmp.363 = true;
+        ret %tmp.363;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_77_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_20_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_65_20_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_37_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_16_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_64_16_if_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_46_stop:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_incr:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 63 ]
+        %tmp.366 = lgetv %i.8;
+        %tmp.367 = add %tmp.366 1;
+        lputv %i.8 %tmp.367;
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_test;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_63_12_for_end:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_24_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_56_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 90 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_8_if_stmt:
+        %tmp.368 = self;
+        %tmp.369 = getv function %tmp.368 :inbox;
+        %tmp.371 = getv ? :finalscoreXY;
+        %tmp.373 = getv ? :finalscoreWH;
+        %tmp.375 = lgetv %xy.1;
+        %tmp.376 = invoke %tmp.368 %tmp.369(%tmp.371, %tmp.373, %tmp.375);
+        bf %tmp.376 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_49_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 91 12 ]
+        %tmp.377 = self;
+        %tmp.378 = getv function %tmp.377 :showhighscores;
+        %tmp.379 = -1;
+        invoke %tmp.377 %tmp.378(%tmp.379);
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_49_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_90_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 93 8 ]
+        %tmp.380 = false;
+        ret %tmp.380;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_15_42_stop:
+    }
+    [ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 100; ]
+    function inbox(boxxy, boxwh, point) as Boolean {
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_100_49_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 101 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_8_if_stmt:
+        %tmp.2 = lgetv %point;
+        %tmp.3 = 0;
+        %tmp.4 = agetv %tmp.2 %tmp.3;
+        %tmp.6 = lgetv %boxxy;
+        %tmp.7 = 0;
+        %tmp.8 = agetv %tmp.6 %tmp.7;
+        %tmp.9 = lt %tmp.4 %tmp.8;
+        bf %tmp.9 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_31_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 101 32 ]
+        %tmp.10 = false;
+        ret %tmp.10;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_31_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_101_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 102 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_8_if_stmt:
+        %tmp.12 = lgetv %point;
+        %tmp.13 = 0;
+        %tmp.14 = agetv %tmp.12 %tmp.13;
+        %tmp.16 = lgetv %boxxy;
+        %tmp.17 = 0;
+        %tmp.18 = agetv %tmp.16 %tmp.17;
+        %tmp.20 = lgetv %boxwh;
+        %tmp.21 = 0;
+        %tmp.22 = agetv %tmp.20 %tmp.21;
+        %tmp.23 = add %tmp.18 %tmp.22;
+        %tmp.24 = gt %tmp.14 %tmp.23;
+        bf %tmp.24 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_40_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 102 41 ]
+        %tmp.25 = false;
+        ret %tmp.25;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_40_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_102_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 103 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_8_if_stmt:
+        %tmp.27 = lgetv %point;
+        %tmp.28 = 1;
+        %tmp.29 = agetv %tmp.27 %tmp.28;
+        %tmp.31 = lgetv %boxxy;
+        %tmp.32 = 1;
+        %tmp.33 = agetv %tmp.31 %tmp.32;
+        %tmp.34 = lt %tmp.29 %tmp.33;
+        bf %tmp.34 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_31_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 103 32 ]
+        %tmp.35 = false;
+        ret %tmp.35;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_31_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_103_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 104 8 ]
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_8_if_stmt:
+        %tmp.37 = lgetv %point;
+        %tmp.38 = 1;
+        %tmp.39 = agetv %tmp.37 %tmp.38;
+        %tmp.41 = lgetv %boxxy;
+        %tmp.42 = 1;
+        %tmp.43 = agetv %tmp.41 %tmp.42;
+        %tmp.45 = lgetv %boxwh;
+        %tmp.46 = 1;
+        %tmp.47 = agetv %tmp.45 %tmp.46;
+        %tmp.48 = add %tmp.43 %tmp.47;
+        %tmp.49 = gt %tmp.39 %tmp.48;
+        bf %tmp.49 @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_8_if_true:
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_40_start:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 104 41 ]
+        %tmp.50 = false;
+        ret %tmp.50;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_40_stop:
+        goto @C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_8_if_end;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_104_8_if_end:
+[ "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc" 105 8 ]
+        %tmp.51 = true;
+        ret %tmp.51;
+C_Garmin_Projects_Yahtzee_source_YahtzeeDelegate_mc_100_49_stop:
+    }
+}
+[ @file = "C:\Garmin\Projects\Yahtzee\source\YahtzeeDelegate.mc"; @line = 1; ]
+<init> {
+}

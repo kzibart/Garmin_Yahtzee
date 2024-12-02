@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+<manifest filename="C:\Garmin\Projects\Yahtzee\manifest.xml"/>
+<pcToLineNum>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="13" parent="globals" pc="268435457" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="14" parent="globals" pc="268435480" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="15" parent="globals" pc="268435502" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="16" parent="globals" pc="268435524" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="17" parent="globals" pc="268435546" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="25" parent="globals" pc="268435568" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="26" parent="globals" pc="268435647" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="27" parent="globals" pc="268435726" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="28" parent="globals" pc="268435922" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="34" parent="globals" pc="268436118" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="36" parent="globals" pc="268436314" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="38" parent="globals" pc="268436367" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="4" lineNum="40" parent="globals" pc="268436433" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="656" parent="globals" pc="268436474" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="657" parent="globals" pc="268436486" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="658" parent="globals" pc="268436510" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="659" parent="globals" pc="268436517" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="660" parent="globals" pc="268436524" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="661" parent="globals" pc="268436548" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="662" parent="globals" pc="268436576" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="663" parent="globals" pc="268436586" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="664" parent="globals" pc="268436597" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="668" parent="globals" pc="268436620" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="669" parent="globals" pc="268436631" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="670" parent="globals" pc="268436644" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="672" parent="globals" pc="268436657" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="673" parent="globals" pc="268436682" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="674" parent="globals" pc="268436707" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="6" lineNum="675" parent="globals" pc="268436719" symbol="calcscore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="7" lineNum="6" parent="globals/YahtzeeMenuDelegate" pc="268436749" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="8" lineNum="32" parent="globals/YahtzeeMenuDelegate" pc="268436768" symbol="onBack"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="8" lineNum="33" parent="globals/YahtzeeMenuDelegate" pc="268436770" symbol="onBack"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="9" lineNum="8" parent="globals/YahtzeeMenuDelegate" pc="268436792" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="9" lineNum="9" parent="globals/YahtzeeMenuDelegate" pc="268436794" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="12" parent="globals/YahtzeeMenuDelegate" pc="268436813" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="13" parent="globals/YahtzeeMenuDelegate" pc="268436815" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="14" parent="globals/YahtzeeMenuDelegate" pc="268436826" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="19" parent="globals/YahtzeeMenuDelegate" pc="268436846" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="24" parent="globals/YahtzeeMenuDelegate" pc="268436866" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="15" parent="globals/YahtzeeMenuDelegate" pc="268436889" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="16" parent="globals/YahtzeeMenuDelegate" pc="268436929" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="17" parent="globals/YahtzeeMenuDelegate" pc="268436958" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="18" parent="globals/YahtzeeMenuDelegate" pc="268436987" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="20" parent="globals/YahtzeeMenuDelegate" pc="268436990" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="21" parent="globals/YahtzeeMenuDelegate" pc="268437030" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="22" parent="globals/YahtzeeMenuDelegate" pc="268437059" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="23" parent="globals/YahtzeeMenuDelegate" pc="268437088" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="25" parent="globals/YahtzeeMenuDelegate" pc="268437091" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="26" parent="globals/YahtzeeMenuDelegate" pc="268437131" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="27" parent="globals/YahtzeeMenuDelegate" pc="268437160" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeMenuDelegate.mc" id="10" lineNum="28" parent="globals/YahtzeeMenuDelegate" pc="268437189" symbol="onSelect"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="11" lineNum="7" parent="globals/Rez" pc="268437194" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="12" lineNum="592" parent="globals" pc="268437218" symbol="newgame"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="12" lineNum="593" parent="globals" pc="268437228" symbol="newgame"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="12" lineNum="601" parent="globals" pc="268437620" symbol="newgame"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="732" parent="globals" pc="268437633" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="733" parent="globals" pc="268437645" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="734" parent="globals" pc="268437667" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="734" parent="globals" pc="268437674" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="735" parent="globals" pc="268437675" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="738" parent="globals" pc="268437749" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="739" parent="globals" pc="268437767" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="740" parent="globals" pc="268437785" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="741" parent="globals" pc="268437809" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="743" parent="globals" pc="268437873" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="744" parent="globals" pc="268437918" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="745" parent="globals" pc="268437929" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="746" parent="globals" pc="268437929" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="747" parent="globals" pc="268437931" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="748" parent="globals" pc="268437951" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="749" parent="globals" pc="268437971" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="750" parent="globals" pc="268437991" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="751" parent="globals" pc="268438011" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="752" parent="globals" pc="268438031" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="753" parent="globals" pc="268438051" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="754" parent="globals" pc="268438071" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="755" parent="globals" pc="268438091" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="756" parent="globals" pc="268438111" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="757" parent="globals" pc="268438131" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="747" parent="globals" pc="268438134" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="747" parent="globals" pc="268438141" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="751" parent="globals" pc="268438144" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="751" parent="globals" pc="268438151" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="756" parent="globals" pc="268438154" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="756" parent="globals" pc="268438161" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="757" parent="globals" pc="268438164" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="757" parent="globals" pc="268438171" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="759" parent="globals" pc="268438172" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="13" lineNum="761" parent="globals" pc="268438196" symbol="showhighscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="529" parent="globals" pc="268438213" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="530" parent="globals" pc="268438225" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="531" parent="globals" pc="268438249" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="531" parent="globals" pc="268438260" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="532" parent="globals" pc="268438339" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="533" parent="globals" pc="268438363" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="534" parent="globals" pc="268438387" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="535" parent="globals" pc="268438387" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="536" parent="globals" pc="268438394" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="537" parent="globals" pc="268438412" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="538" parent="globals" pc="268438420" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="539" parent="globals" pc="268438431" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="542" parent="globals" pc="268438441" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="543" parent="globals" pc="268438452" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="548" parent="globals" pc="268438472" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="549" parent="globals" pc="268438490" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="550" parent="globals" pc="268438499" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="550" parent="globals" pc="268438510" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="551" parent="globals" pc="268438517" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="552" parent="globals" pc="268438546" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="556" parent="globals" pc="268438566" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="557" parent="globals" pc="268438583" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="558" parent="globals" pc="268438601" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="558" parent="globals" pc="268438612" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="562" parent="globals" pc="268438632" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="563" parent="globals" pc="268438649" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="564" parent="globals" pc="268438667" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="565" parent="globals" pc="268438694" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="566" parent="globals" pc="268438698" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="567" parent="globals" pc="268438706" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="570" parent="globals" pc="268438726" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="573" parent="globals" pc="268438746" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="568" parent="globals" pc="268438769" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="569" parent="globals" pc="268438788" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="571" parent="globals" pc="268438791" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="572" parent="globals" pc="268438811" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="574" parent="globals" pc="268438814" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="575" parent="globals" pc="268438938" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="577" parent="globals" pc="268438942" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="578" parent="globals" pc="268438947" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="579" parent="globals" pc="268438954" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="580" parent="globals" pc="268438970" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="581" parent="globals" pc="268438983" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="582" parent="globals" pc="268438990" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="583" parent="globals" pc="268439006" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="588" parent="globals" pc="268439045" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="14" lineNum="589" parent="globals" pc="268439070" symbol="rolldice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="15" lineNum="794" parent="globals/DrawableMenuTitle" pc="268439096" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="16" lineNum="795" parent="globals/DrawableMenuTitle" pc="268439115" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="16" lineNum="796" parent="globals/DrawableMenuTitle" pc="268439117" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="799" parent="globals/DrawableMenuTitle" pc="268439142" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="800" parent="globals/DrawableMenuTitle" pc="268439146" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="801" parent="globals/DrawableMenuTitle" pc="268439159" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="802" parent="globals/DrawableMenuTitle" pc="268439172" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="803" parent="globals/DrawableMenuTitle" pc="268439182" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="804" parent="globals/DrawableMenuTitle" pc="268439198" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="805" parent="globals/DrawableMenuTitle" pc="268439208" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="806" parent="globals/DrawableMenuTitle" pc="268439221" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="807" parent="globals/DrawableMenuTitle" pc="268439234" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="808" parent="globals/DrawableMenuTitle" pc="268439244" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="809" parent="globals/DrawableMenuTitle" pc="268439260" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="810" parent="globals/DrawableMenuTitle" pc="268439282" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="811" parent="globals/DrawableMenuTitle" pc="268439294" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="812" parent="globals/DrawableMenuTitle" pc="268439331" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="813" parent="globals/DrawableMenuTitle" pc="268439353" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="814" parent="globals/DrawableMenuTitle" pc="268439384" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="17" lineNum="815" parent="globals/DrawableMenuTitle" pc="268439415" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="18" lineNum="883" parent="globals/CustomIcon" pc="268439447" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="19" lineNum="886" parent="globals/CustomIcon" pc="268439466" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="19" lineNum="887" parent="globals/CustomIcon" pc="268439468" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="19" lineNum="888" parent="globals/CustomIcon" pc="268439478" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="20" lineNum="891" parent="globals/CustomIcon" pc="268439503" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="20" lineNum="892" parent="globals/CustomIcon" pc="268439505" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="20" lineNum="893" parent="globals/CustomIcon" pc="268439527" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="21" lineNum="4" parent="globals/YahtzeeDelegate" pc="268439540" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="22" lineNum="10" parent="globals/YahtzeeDelegate" pc="268439559" symbol="onMenu"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="22" lineNum="11" parent="globals/YahtzeeDelegate" pc="268439561" symbol="onMenu"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="22" lineNum="12" parent="globals/YahtzeeDelegate" pc="268439634" symbol="onMenu"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="23" lineNum="6" parent="globals/YahtzeeDelegate" pc="268439637" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="23" lineNum="7" parent="globals/YahtzeeDelegate" pc="268439639" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="15" parent="globals/YahtzeeDelegate" pc="268439658" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="16" parent="globals/YahtzeeDelegate" pc="268439662" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="17" parent="globals/YahtzeeDelegate" pc="268439675" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="18" parent="globals/YahtzeeDelegate" pc="268439695" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="19" parent="globals/YahtzeeDelegate" pc="268439706" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="20" parent="globals/YahtzeeDelegate" pc="268439798" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="21" parent="globals/YahtzeeDelegate" pc="268439815" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="24" parent="globals/YahtzeeDelegate" pc="268439818" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="25" parent="globals/YahtzeeDelegate" pc="268439842" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="26" parent="globals/YahtzeeDelegate" pc="268439866" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="27" parent="globals/YahtzeeDelegate" pc="268439958" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="28" parent="globals/YahtzeeDelegate" pc="268439970" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="29" parent="globals/YahtzeeDelegate" pc="268439986" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="31" parent="globals/YahtzeeDelegate" pc="268439989" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="32" parent="globals/YahtzeeDelegate" pc="268440090" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="32" parent="globals/YahtzeeDelegate" pc="268440101" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="33" parent="globals/YahtzeeDelegate" pc="268440113" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="34" parent="globals/YahtzeeDelegate" pc="268440123" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="35" parent="globals/YahtzeeDelegate" pc="268440148" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="36" parent="globals/YahtzeeDelegate" pc="268440160" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="37" parent="globals/YahtzeeDelegate" pc="268440176" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="39" parent="globals/YahtzeeDelegate" pc="268440179" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="40" parent="globals/YahtzeeDelegate" pc="268440280" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="41" parent="globals/YahtzeeDelegate" pc="268440287" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="42" parent="globals/YahtzeeDelegate" pc="268440312" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="43" parent="globals/YahtzeeDelegate" pc="268440328" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="45" parent="globals/YahtzeeDelegate" pc="268440331" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="46" parent="globals/YahtzeeDelegate" pc="268440342" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="47" parent="globals/YahtzeeDelegate" pc="268440366" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="48" parent="globals/YahtzeeDelegate" pc="268440384" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="49" parent="globals/YahtzeeDelegate" pc="268440482" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="50" parent="globals/YahtzeeDelegate" pc="268440493" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="51" parent="globals/YahtzeeDelegate" pc="268440518" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="52" parent="globals/YahtzeeDelegate" pc="268440534" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="56" parent="globals/YahtzeeDelegate" pc="268440550" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="57" parent="globals/YahtzeeDelegate" pc="268440561" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="58" parent="globals/YahtzeeDelegate" pc="268440574" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="59" parent="globals/YahtzeeDelegate" pc="268440598" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="60" parent="globals/YahtzeeDelegate" pc="268440612" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="63" parent="globals/YahtzeeDelegate" pc="268440635" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="64" parent="globals/YahtzeeDelegate" pc="268440659" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="65" parent="globals/YahtzeeDelegate" pc="268440673" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="66" parent="globals/YahtzeeDelegate" pc="268440771" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="67" parent="globals/YahtzeeDelegate" pc="268440814" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="69" parent="globals/YahtzeeDelegate" pc="268440833" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="70" parent="globals/YahtzeeDelegate" pc="268440849" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="71" parent="globals/YahtzeeDelegate" pc="268440874" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="72" parent="globals/YahtzeeDelegate" pc="268440886" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="73" parent="globals/YahtzeeDelegate" pc="268440897" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="74" parent="globals/YahtzeeDelegate" pc="268440904" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="75" parent="globals/YahtzeeDelegate" pc="268440929" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="77" parent="globals/YahtzeeDelegate" pc="268440944" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="78" parent="globals/YahtzeeDelegate" pc="268440951" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="79" parent="globals/YahtzeeDelegate" pc="268440976" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="80" parent="globals/YahtzeeDelegate" pc="268440989" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="81" parent="globals/YahtzeeDelegate" pc="268441000" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="84" parent="globals/YahtzeeDelegate" pc="268441014" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="85" parent="globals/YahtzeeDelegate" pc="268441030" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="90" parent="globals/YahtzeeDelegate" pc="268441046" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="91" parent="globals/YahtzeeDelegate" pc="268441078" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="24" lineNum="93" parent="globals/YahtzeeDelegate" pc="268441095" symbol="onTap"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="100" parent="globals/YahtzeeDelegate" pc="268441098" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="101" parent="globals/YahtzeeDelegate" pc="268441100" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="101" parent="globals/YahtzeeDelegate" pc="268441120" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="102" parent="globals/YahtzeeDelegate" pc="268441123" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="102" parent="globals/YahtzeeDelegate" pc="268441152" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="103" parent="globals/YahtzeeDelegate" pc="268441155" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="103" parent="globals/YahtzeeDelegate" pc="268441175" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="104" parent="globals/YahtzeeDelegate" pc="268441178" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="104" parent="globals/YahtzeeDelegate" pc="268441207" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeDelegate.mc" id="25" lineNum="105" parent="globals/YahtzeeDelegate" pc="268441210" symbol="inbox"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="26" lineNum="819" parent="globals/CustomItem" pc="268441213" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="27" lineNum="836" parent="globals/CustomItem" pc="268441232" symbol="getDate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="27" lineNum="837" parent="globals/CustomItem" pc="268441234" symbol="getDate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="826" parent="globals/CustomItem" pc="268441243" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="827" parent="globals/CustomItem" pc="268441247" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="828" parent="globals/CustomItem" pc="268441273" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="829" parent="globals/CustomItem" pc="268441323" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="830" parent="globals/CustomItem" pc="268441333" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="831" parent="globals/CustomItem" pc="268441398" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="832" parent="globals/CustomItem" pc="268441491" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="28" lineNum="833" parent="globals/CustomItem" pc="268441501" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="844" parent="globals/CustomItem" pc="268441512" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="845" parent="globals/CustomItem" pc="268441516" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="846" parent="globals/CustomItem" pc="268441529" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="847" parent="globals/CustomItem" pc="268441542" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="848" parent="globals/CustomItem" pc="268441552" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="849" parent="globals/CustomItem" pc="268441568" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="850" parent="globals/CustomItem" pc="268441578" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="851" parent="globals/CustomItem" pc="268441591" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="852" parent="globals/CustomItem" pc="268441604" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="853" parent="globals/CustomItem" pc="268441620" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="853" parent="globals/CustomItem" pc="268441639" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="854" parent="globals/CustomItem" pc="268441652" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="855" parent="globals/CustomItem" pc="268441662" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="856" parent="globals/CustomItem" pc="268441673" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="857" parent="globals/CustomItem" pc="268441695" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="859" parent="globals/CustomItem" pc="268441723" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="860" parent="globals/CustomItem" pc="268441745" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="861" parent="globals/CustomItem" pc="268441779" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="862" parent="globals/CustomItem" pc="268441801" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="863" parent="globals/CustomItem" pc="268441841" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="29" lineNum="864" parent="globals/CustomItem" pc="268441863" symbol="draw"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="30" lineNum="840" parent="globals/CustomItem" pc="268441904" symbol="getScore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="30" lineNum="841" parent="globals/CustomItem" pc="268441906" symbol="getScore"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="679" parent="globals" pc="268441915" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="680" parent="globals" pc="268441927" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="681" parent="globals" pc="268441934" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="682" parent="globals" pc="268441941" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="683" parent="globals" pc="268441965" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="684" parent="globals" pc="268441989" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="685" parent="globals" pc="268442011" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="686" parent="globals" pc="268442018" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="692" parent="globals" pc="268442068" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="693" parent="globals" pc="268442086" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="694" parent="globals" pc="268442104" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="695" parent="globals" pc="268442122" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="696" parent="globals" pc="268442135" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="697" parent="globals" pc="268442139" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="698" parent="globals" pc="268442150" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="699" parent="globals" pc="268442165" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="700" parent="globals" pc="268442176" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="701" parent="globals" pc="268442184" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="702" parent="globals" pc="268442207" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="703" parent="globals" pc="268442230" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="705" parent="globals" pc="268442253" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="706" parent="globals" pc="268442271" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="707" parent="globals" pc="268442287" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="708" parent="globals" pc="268442303" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="710" parent="globals" pc="268442332" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="711" parent="globals" pc="268442361" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="712" parent="globals" pc="268442368" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="713" parent="globals" pc="268442375" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="714" parent="globals" pc="268442379" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="715" parent="globals" pc="268442383" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="719" parent="globals" pc="268442399" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="720" parent="globals" pc="268442416" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="721" parent="globals" pc="268442452" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="722" parent="globals" pc="268442466" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="723" parent="globals" pc="268442480" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="725" parent="globals" pc="268442487" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="726" parent="globals" pc="268442506" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="727" parent="globals" pc="268442525" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="728" parent="globals" pc="268442544" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="31" lineNum="729" parent="globals" pc="268442567" symbol="savehistory"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="32" lineNum="54" parent="globals/YahtzeeView" pc="268442570" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="463" parent="globals/YahtzeeView" pc="268442589" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="464" parent="globals/YahtzeeView" pc="268442593" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="465" parent="globals/YahtzeeView" pc="268442605" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="466" parent="globals/YahtzeeView" pc="268442629" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="467" parent="globals/YahtzeeView" pc="268442653" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="468" parent="globals/YahtzeeView" pc="268442843" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="469" parent="globals/YahtzeeView" pc="268442867" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="470" parent="globals/YahtzeeView" pc="268442878" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="471" parent="globals/YahtzeeView" pc="268442908" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="472" parent="globals/YahtzeeView" pc="268442922" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="473" parent="globals/YahtzeeView" pc="268442933" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="474" parent="globals/YahtzeeView" pc="268442944" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="475" parent="globals/YahtzeeView" pc="268442969" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="477" parent="globals/YahtzeeView" pc="268443045" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="478" parent="globals/YahtzeeView" pc="268443070" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="479" parent="globals/YahtzeeView" pc="268443128" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="481" parent="globals/YahtzeeView" pc="268443153" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="482" parent="globals/YahtzeeView" pc="268443175" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="483" parent="globals/YahtzeeView" pc="268443233" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="485" parent="globals/YahtzeeView" pc="268443255" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="486" parent="globals/YahtzeeView" pc="268443275" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="489" parent="globals/YahtzeeView" pc="268443372" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="490" parent="globals/YahtzeeView" pc="268443403" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="492" parent="globals/YahtzeeView" pc="268443425" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="493" parent="globals/YahtzeeView" pc="268443453" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="495" parent="globals/YahtzeeView" pc="268443568" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="499" parent="globals/YahtzeeView" pc="268443656" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="499" parent="globals/YahtzeeView" pc="268443684" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="500" parent="globals/YahtzeeView" pc="268443709" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="501" parent="globals/YahtzeeView" pc="268443731" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="504" parent="globals/YahtzeeView" pc="268443832" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="505" parent="globals/YahtzeeView" pc="268443862" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="506" parent="globals/YahtzeeView" pc="268443884" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="507" parent="globals/YahtzeeView" pc="268443960" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="508" parent="globals/YahtzeeView" pc="268443982" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="509" parent="globals/YahtzeeView" pc="268443996" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="510" parent="globals/YahtzeeView" pc="268444016" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="511" parent="globals/YahtzeeView" pc="268444038" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="513" parent="globals/YahtzeeView" pc="268444126" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="514" parent="globals/YahtzeeView" pc="268444157" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="516" parent="globals/YahtzeeView" pc="268444179" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="517" parent="globals/YahtzeeView" pc="268444207" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="519" parent="globals/YahtzeeView" pc="268444313" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="524" parent="globals/YahtzeeView" pc="268444405" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="33" lineNum="525" parent="globals/YahtzeeView" pc="268444430" symbol="drawscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="423" parent="globals/YahtzeeView" pc="268444474" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="424" parent="globals/YahtzeeView" pc="268444476" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="425" parent="globals/YahtzeeView" pc="268444478" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="427" parent="globals/YahtzeeView" pc="268444498" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="430" parent="globals/YahtzeeView" pc="268444518" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="434" parent="globals/YahtzeeView" pc="268444538" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="439" parent="globals/YahtzeeView" pc="268444558" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="445" parent="globals/YahtzeeView" pc="268444578" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="452" parent="globals/YahtzeeView" pc="268444598" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="426" parent="globals/YahtzeeView" pc="268444621" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="428" parent="globals/YahtzeeView" pc="268444624" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="429" parent="globals/YahtzeeView" pc="268444660" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="431" parent="globals/YahtzeeView" pc="268444663" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="432" parent="globals/YahtzeeView" pc="268444729" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="433" parent="globals/YahtzeeView" pc="268444795" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="435" parent="globals/YahtzeeView" pc="268444798" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="436" parent="globals/YahtzeeView" pc="268444864" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="437" parent="globals/YahtzeeView" pc="268444900" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="438" parent="globals/YahtzeeView" pc="268444966" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="440" parent="globals/YahtzeeView" pc="268444969" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="441" parent="globals/YahtzeeView" pc="268445035" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="442" parent="globals/YahtzeeView" pc="268445101" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="443" parent="globals/YahtzeeView" pc="268445167" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="444" parent="globals/YahtzeeView" pc="268445233" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="446" parent="globals/YahtzeeView" pc="268445236" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="447" parent="globals/YahtzeeView" pc="268445302" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="448" parent="globals/YahtzeeView" pc="268445368" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="449" parent="globals/YahtzeeView" pc="268445404" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="450" parent="globals/YahtzeeView" pc="268445470" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="451" parent="globals/YahtzeeView" pc="268445536" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="453" parent="globals/YahtzeeView" pc="268445539" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="454" parent="globals/YahtzeeView" pc="268445605" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="455" parent="globals/YahtzeeView" pc="268445671" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="456" parent="globals/YahtzeeView" pc="268445722" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="457" parent="globals/YahtzeeView" pc="268445773" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="458" parent="globals/YahtzeeView" pc="268445839" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="35" lineNum="459" parent="globals/YahtzeeView" pc="268445905" symbol="drawpips"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="60" parent="globals/YahtzeeView" pc="268445910" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="61" parent="globals/YahtzeeView" pc="268445912" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="62" parent="globals/YahtzeeView" pc="268445940" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="62" parent="globals/YahtzeeView" pc="268445953" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="63" parent="globals/YahtzeeView" pc="268445965" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="64" parent="globals/YahtzeeView" pc="268445975" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="65" parent="globals/YahtzeeView" pc="268446003" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="65" parent="globals/YahtzeeView" pc="268446016" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="66" parent="globals/YahtzeeView" pc="268446029" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="67" parent="globals/YahtzeeView" pc="268446057" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="67" parent="globals/YahtzeeView" pc="268446070" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="68" parent="globals/YahtzeeView" pc="268446083" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="69" parent="globals/YahtzeeView" pc="268446111" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="36" lineNum="69" parent="globals/YahtzeeView" pc="268446124" symbol="onLayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="368" parent="globals/YahtzeeView" pc="268446138" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="369" parent="globals/YahtzeeView" pc="268446142" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="370" parent="globals/YahtzeeView" pc="268446153" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="371" parent="globals/YahtzeeView" pc="268446175" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="372" parent="globals/YahtzeeView" pc="268446231" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="373" parent="globals/YahtzeeView" pc="268446241" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="374" parent="globals/YahtzeeView" pc="268446248" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="375" parent="globals/YahtzeeView" pc="268446272" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="377" parent="globals/YahtzeeView" pc="268446293" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="377" parent="globals/YahtzeeView" pc="268446304" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="378" parent="globals/YahtzeeView" pc="268446314" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="379" parent="globals/YahtzeeView" pc="268446321" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="381" parent="globals/YahtzeeView" pc="268446343" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="382" parent="globals/YahtzeeView" pc="268446385" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="383" parent="globals/YahtzeeView" pc="268446459" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="384" parent="globals/YahtzeeView" pc="268446523" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="385" parent="globals/YahtzeeView" pc="268446593" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="387" parent="globals/YahtzeeView" pc="268446594" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="388" parent="globals/YahtzeeView" pc="268446618" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="389" parent="globals/YahtzeeView" pc="268446642" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="391" parent="globals/YahtzeeView" pc="268446666" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="392" parent="globals/YahtzeeView" pc="268446666" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="393" parent="globals/YahtzeeView" pc="268446684" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="394" parent="globals/YahtzeeView" pc="268446697" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="395" parent="globals/YahtzeeView" pc="268446710" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="396" parent="globals/YahtzeeView" pc="268446729" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="397" parent="globals/YahtzeeView" pc="268446748" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="398" parent="globals/YahtzeeView" pc="268446759" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="399" parent="globals/YahtzeeView" pc="268446770" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="400" parent="globals/YahtzeeView" pc="268446795" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="402" parent="globals/YahtzeeView" pc="268446853" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="402" parent="globals/YahtzeeView" pc="268446861" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="403" parent="globals/YahtzeeView" pc="268446889" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="404" parent="globals/YahtzeeView" pc="268446914" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="405" parent="globals/YahtzeeView" pc="268446954" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="407" parent="globals/YahtzeeView" pc="268446979" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="407" parent="globals/YahtzeeView" pc="268446987" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="408" parent="globals/YahtzeeView" pc="268447012" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="409" parent="globals/YahtzeeView" pc="268447034" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="410" parent="globals/YahtzeeView" pc="268447074" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="412" parent="globals/YahtzeeView" pc="268447096" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="413" parent="globals/YahtzeeView" pc="268447107" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="414" parent="globals/YahtzeeView" pc="268447118" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="415" parent="globals/YahtzeeView" pc="268447143" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="417" parent="globals/YahtzeeView" pc="268447178" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="37" lineNum="419" parent="globals/YahtzeeView" pc="268447200" symbol="drawdice"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="246" parent="globals/YahtzeeView" pc="268447240" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="247" parent="globals/YahtzeeView" pc="268447244" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="248" parent="globals/YahtzeeView" pc="268447268" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="249" parent="globals/YahtzeeView" pc="268447284" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="250" parent="globals/YahtzeeView" pc="268447284" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="251" parent="globals/YahtzeeView" pc="268447295" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="252" parent="globals/YahtzeeView" pc="268447306" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="253" parent="globals/YahtzeeView" pc="268447317" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="254" parent="globals/YahtzeeView" pc="268447342" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="256" parent="globals/YahtzeeView" pc="268447412" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="257" parent="globals/YahtzeeView" pc="268447437" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="258" parent="globals/YahtzeeView" pc="268447489" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="258" parent="globals/YahtzeeView" pc="268447500" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="259" parent="globals/YahtzeeView" pc="268447510" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="260" parent="globals/YahtzeeView" pc="268447517" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="261" parent="globals/YahtzeeView" pc="268447528" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="262" parent="globals/YahtzeeView" pc="268447553" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="264" parent="globals/YahtzeeView" pc="268447644" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="265" parent="globals/YahtzeeView" pc="268447666" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="267" parent="globals/YahtzeeView" pc="268447742" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="268" parent="globals/YahtzeeView" pc="268447764" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="269" parent="globals/YahtzeeView" pc="268447816" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="270" parent="globals/YahtzeeView" pc="268447841" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="270" parent="globals/YahtzeeView" pc="268447852" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="271" parent="globals/YahtzeeView" pc="268447862" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="272" parent="globals/YahtzeeView" pc="268447869" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="275" parent="globals/YahtzeeView" pc="268447945" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="276" parent="globals/YahtzeeView" pc="268447956" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="277" parent="globals/YahtzeeView" pc="268447967" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="278" parent="globals/YahtzeeView" pc="268447992" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="280" parent="globals/YahtzeeView" pc="268448062" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="281" parent="globals/YahtzeeView" pc="268448087" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="282" parent="globals/YahtzeeView" pc="268448139" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="282" parent="globals/YahtzeeView" pc="268448150" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="283" parent="globals/YahtzeeView" pc="268448160" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="284" parent="globals/YahtzeeView" pc="268448167" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="285" parent="globals/YahtzeeView" pc="268448192" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="287" parent="globals/YahtzeeView" pc="268448268" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="288" parent="globals/YahtzeeView" pc="268448293" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="289" parent="globals/YahtzeeView" pc="268448345" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="289" parent="globals/YahtzeeView" pc="268448356" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="290" parent="globals/YahtzeeView" pc="268448366" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="291" parent="globals/YahtzeeView" pc="268448373" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="294" parent="globals/YahtzeeView" pc="268448446" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="295" parent="globals/YahtzeeView" pc="268448457" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="296" parent="globals/YahtzeeView" pc="268448468" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="297" parent="globals/YahtzeeView" pc="268448479" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="298" parent="globals/YahtzeeView" pc="268448490" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="299" parent="globals/YahtzeeView" pc="268448515" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="301" parent="globals/YahtzeeView" pc="268448585" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="302" parent="globals/YahtzeeView" pc="268448610" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="303" parent="globals/YahtzeeView" pc="268448662" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="304" parent="globals/YahtzeeView" pc="268448673" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="305" parent="globals/YahtzeeView" pc="268448698" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="307" parent="globals/YahtzeeView" pc="268448789" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="308" parent="globals/YahtzeeView" pc="268448811" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="310" parent="globals/YahtzeeView" pc="268448887" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="311" parent="globals/YahtzeeView" pc="268448909" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="312" parent="globals/YahtzeeView" pc="268448961" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="313" parent="globals/YahtzeeView" pc="268448986" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="317" parent="globals/YahtzeeView" pc="268449062" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="318" parent="globals/YahtzeeView" pc="268449073" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="319" parent="globals/YahtzeeView" pc="268449084" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="320" parent="globals/YahtzeeView" pc="268449109" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="322" parent="globals/YahtzeeView" pc="268449179" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="323" parent="globals/YahtzeeView" pc="268449204" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="324" parent="globals/YahtzeeView" pc="268449256" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="325" parent="globals/YahtzeeView" pc="268449281" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="327" parent="globals/YahtzeeView" pc="268449357" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="328" parent="globals/YahtzeeView" pc="268449382" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="329" parent="globals/YahtzeeView" pc="268449434" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="332" parent="globals/YahtzeeView" pc="268449507" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="333" parent="globals/YahtzeeView" pc="268449518" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="334" parent="globals/YahtzeeView" pc="268449529" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="335" parent="globals/YahtzeeView" pc="268449540" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="336" parent="globals/YahtzeeView" pc="268449565" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="338" parent="globals/YahtzeeView" pc="268449635" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="339" parent="globals/YahtzeeView" pc="268449660" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="340" parent="globals/YahtzeeView" pc="268449712" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="341" parent="globals/YahtzeeView" pc="268449723" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="342" parent="globals/YahtzeeView" pc="268449748" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="344" parent="globals/YahtzeeView" pc="268449842" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="345" parent="globals/YahtzeeView" pc="268449864" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="347" parent="globals/YahtzeeView" pc="268449943" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="348" parent="globals/YahtzeeView" pc="268449965" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="349" parent="globals/YahtzeeView" pc="268450017" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="350" parent="globals/YahtzeeView" pc="268450039" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="354" parent="globals/YahtzeeView" pc="268450118" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="355" parent="globals/YahtzeeView" pc="268450129" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="356" parent="globals/YahtzeeView" pc="268450154" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="357" parent="globals/YahtzeeView" pc="268450206" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="358" parent="globals/YahtzeeView" pc="268450231" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="360" parent="globals/YahtzeeView" pc="268450310" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="361" parent="globals/YahtzeeView" pc="268450335" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="40" lineNum="362" parent="globals/YahtzeeView" pc="268450387" symbol="drawbuttons"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="79" parent="globals/YahtzeeView" pc="268450464" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="80" parent="globals/YahtzeeView" pc="268450468" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="81" parent="globals/YahtzeeView" pc="268450478" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="82" parent="globals/YahtzeeView" pc="268450506" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="83" parent="globals/YahtzeeView" pc="268450524" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="85" parent="globals/YahtzeeView" pc="268450547" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="86" parent="globals/YahtzeeView" pc="268450555" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="90" parent="globals/YahtzeeView" pc="268450575" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="94" parent="globals/YahtzeeView" pc="268450595" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="87" parent="globals/YahtzeeView" pc="268450618" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="88" parent="globals/YahtzeeView" pc="268450628" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="89" parent="globals/YahtzeeView" pc="268450638" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="91" parent="globals/YahtzeeView" pc="268450641" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="92" parent="globals/YahtzeeView" pc="268450651" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="93" parent="globals/YahtzeeView" pc="268450661" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="95" parent="globals/YahtzeeView" pc="268450664" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="96" parent="globals/YahtzeeView" pc="268450674" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="97" parent="globals/YahtzeeView" pc="268450684" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="100" parent="globals/YahtzeeView" pc="268450688" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="101" parent="globals/YahtzeeView" pc="268450712" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="102" parent="globals/YahtzeeView" pc="268450736" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="103" parent="globals/YahtzeeView" pc="268450738" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="111" parent="globals/YahtzeeView" pc="268450758" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="118" parent="globals/YahtzeeView" pc="268450778" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="125" parent="globals/YahtzeeView" pc="268450798" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="104" parent="globals/YahtzeeView" pc="268450821" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="105" parent="globals/YahtzeeView" pc="268450837" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="106" parent="globals/YahtzeeView" pc="268450853" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="107" parent="globals/YahtzeeView" pc="268450863" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="108" parent="globals/YahtzeeView" pc="268450873" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="108" parent="globals/YahtzeeView" pc="268450884" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="109" parent="globals/YahtzeeView" pc="268450904" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="110" parent="globals/YahtzeeView" pc="268450921" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="112" parent="globals/YahtzeeView" pc="268450924" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="113" parent="globals/YahtzeeView" pc="268450934" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="114" parent="globals/YahtzeeView" pc="268450944" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="115" parent="globals/YahtzeeView" pc="268450954" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="116" parent="globals/YahtzeeView" pc="268450964" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="117" parent="globals/YahtzeeView" pc="268450981" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="119" parent="globals/YahtzeeView" pc="268450984" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="120" parent="globals/YahtzeeView" pc="268450994" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="121" parent="globals/YahtzeeView" pc="268451004" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="122" parent="globals/YahtzeeView" pc="268451014" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="123" parent="globals/YahtzeeView" pc="268451024" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="124" parent="globals/YahtzeeView" pc="268451041" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="126" parent="globals/YahtzeeView" pc="268451044" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="127" parent="globals/YahtzeeView" pc="268451054" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="128" parent="globals/YahtzeeView" pc="268451064" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="129" parent="globals/YahtzeeView" pc="268451074" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="130" parent="globals/YahtzeeView" pc="268451084" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="131" parent="globals/YahtzeeView" pc="268451101" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="133" parent="globals/YahtzeeView" pc="268451105" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="134" parent="globals/YahtzeeView" pc="268451119" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="135" parent="globals/YahtzeeView" pc="268451133" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="137" parent="globals/YahtzeeView" pc="268451147" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="41" lineNum="138" parent="globals/YahtzeeView" pc="268451159" symbol="onUpdate"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="148" parent="globals/YahtzeeView" pc="268451189" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="149" parent="globals/YahtzeeView" pc="268451193" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="150" parent="globals/YahtzeeView" pc="268451209" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="151" parent="globals/YahtzeeView" pc="268451237" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="152" parent="globals/YahtzeeView" pc="268451253" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="153" parent="globals/YahtzeeView" pc="268451269" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="154" parent="globals/YahtzeeView" pc="268451285" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="156" parent="globals/YahtzeeView" pc="268451298" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="155" parent="globals/YahtzeeView" pc="268451298" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="157" parent="globals/YahtzeeView" pc="268451300" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="190" parent="globals/YahtzeeView" pc="268451320" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="191" parent="globals/YahtzeeView" pc="268451340" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="158" parent="globals/YahtzeeView" pc="268451343" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="159" parent="globals/YahtzeeView" pc="268451374" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="160" parent="globals/YahtzeeView" pc="268451390" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="161" parent="globals/YahtzeeView" pc="268451421" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="162" parent="globals/YahtzeeView" pc="268451452" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="163" parent="globals/YahtzeeView" pc="268451483" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="164" parent="globals/YahtzeeView" pc="268451520" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="165" parent="globals/YahtzeeView" pc="268451536" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="166" parent="globals/YahtzeeView" pc="268451576" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="168" parent="globals/YahtzeeView" pc="268451586" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="169" parent="globals/YahtzeeView" pc="268451632" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="170" parent="globals/YahtzeeView" pc="268451663" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="172" parent="globals/YahtzeeView" pc="268451694" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="173" parent="globals/YahtzeeView" pc="268451734" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="175" parent="globals/YahtzeeView" pc="268451744" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="176" parent="globals/YahtzeeView" pc="268451793" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="178" parent="globals/YahtzeeView" pc="268451803" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="179" parent="globals/YahtzeeView" pc="268451843" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="181" parent="globals/YahtzeeView" pc="268451853" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="182" parent="globals/YahtzeeView" pc="268451887" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="183" parent="globals/YahtzeeView" pc="268451891" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="184" parent="globals/YahtzeeView" pc="268451913" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="185" parent="globals/YahtzeeView" pc="268451959" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="187" parent="globals/YahtzeeView" pc="268451990" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="188" parent="globals/YahtzeeView" pc="268452006" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="189" parent="globals/YahtzeeView" pc="268452016" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="192" parent="globals/YahtzeeView" pc="268452019" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="193" parent="globals/YahtzeeView" pc="268452050" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="194" parent="globals/YahtzeeView" pc="268452066" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="195" parent="globals/YahtzeeView" pc="268452097" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="196" parent="globals/YahtzeeView" pc="268452128" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="197" parent="globals/YahtzeeView" pc="268452159" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="198" parent="globals/YahtzeeView" pc="268452196" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="199" parent="globals/YahtzeeView" pc="268452212" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="200" parent="globals/YahtzeeView" pc="268452252" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="203" parent="globals/YahtzeeView" pc="268452262" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="204" parent="globals/YahtzeeView" pc="268452308" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="205" parent="globals/YahtzeeView" pc="268452339" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="207" parent="globals/YahtzeeView" pc="268452370" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="208" parent="globals/YahtzeeView" pc="268452401" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="210" parent="globals/YahtzeeView" pc="268452411" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="211" parent="globals/YahtzeeView" pc="268452427" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="213" parent="globals/YahtzeeView" pc="268452443" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="214" parent="globals/YahtzeeView" pc="268452459" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="216" parent="globals/YahtzeeView" pc="268452475" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="217" parent="globals/YahtzeeView" pc="268452509" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="218" parent="globals/YahtzeeView" pc="268452513" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="219" parent="globals/YahtzeeView" pc="268452535" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="220" parent="globals/YahtzeeView" pc="268452581" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="222" parent="globals/YahtzeeView" pc="268452612" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="223" parent="globals/YahtzeeView" pc="268452628" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="224" parent="globals/YahtzeeView" pc="268452638" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="226" parent="globals/YahtzeeView" pc="268452639" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="227" parent="globals/YahtzeeView" pc="268452657" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="228" parent="globals/YahtzeeView" pc="268452700" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="230" parent="globals/YahtzeeView" pc="268452732" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="231" parent="globals/YahtzeeView" pc="268452750" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="232" parent="globals/YahtzeeView" pc="268452768" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="233" parent="globals/YahtzeeView" pc="268452814" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="236" parent="globals/YahtzeeView" pc="268452886" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="237" parent="globals/YahtzeeView" pc="268452914" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="238" parent="globals/YahtzeeView" pc="268452960" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="239" parent="globals/YahtzeeView" pc="268452988" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="240" parent="globals/YahtzeeView" pc="268453034" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="241" parent="globals/YahtzeeView" pc="268453110" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="242" parent="globals/YahtzeeView" pc="268453162" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="42" lineNum="243" parent="globals/YahtzeeView" pc="268453193" symbol="setlayout"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="43" lineNum="26" parent="globals" pc="268453225" symbol="getApp"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="43" lineNum="27" parent="globals" pc="268453235" symbol="getApp"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="44" lineNum="5" parent="globals/YahtzeeApp" pc="268453251" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="46" lineNum="20" parent="globals/YahtzeeApp" pc="268453270" symbol="getInitialView"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="46" lineNum="21" parent="globals/YahtzeeApp" pc="268453272" symbol="getInitialView"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="47" lineNum="7" parent="globals/YahtzeeApp" pc="268453347" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeApp.mc" id="47" lineNum="8" parent="globals/YahtzeeApp" pc="268453349" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="49" lineNum="764" parent="globals/YahtzeeHighScoresDelegate" pc="268453368" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="50" lineNum="788" parent="globals/YahtzeeHighScoresDelegate" pc="268453387" symbol="onBack"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="50" lineNum="789" parent="globals/YahtzeeHighScoresDelegate" pc="268453389" symbol="onBack"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="50" lineNum="790" parent="globals/YahtzeeHighScoresDelegate" pc="268453399" symbol="onBack"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="51" lineNum="765" parent="globals/YahtzeeHighScoresDelegate" pc="268453421" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="51" lineNum="766" parent="globals/YahtzeeHighScoresDelegate" pc="268453423" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="769" parent="globals/YahtzeeHighScoresDelegate" pc="268453442" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="770" parent="globals/YahtzeeHighScoresDelegate" pc="268453446" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="771" parent="globals/YahtzeeHighScoresDelegate" pc="268453459" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="772" parent="globals/YahtzeeHighScoresDelegate" pc="268453481" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="773" parent="globals/YahtzeeHighScoresDelegate" pc="268453499" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="774" parent="globals/YahtzeeHighScoresDelegate" pc="268453517" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="775" parent="globals/YahtzeeHighScoresDelegate" pc="268453535" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="783" parent="globals/YahtzeeHighScoresDelegate" pc="268453744" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="784" parent="globals/YahtzeeHighScoresDelegate" pc="268453754" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="52" lineNum="785" parent="globals/YahtzeeHighScoresDelegate" pc="268453767" symbol="onSelect"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="604" parent="globals" pc="268453789" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="605" parent="globals" pc="268453801" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="606" parent="globals" pc="268453825" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="607" parent="globals" pc="268453924" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="608" parent="globals" pc="268454023" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="609" parent="globals" pc="268454030" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="610" parent="globals" pc="268454037" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="611" parent="globals" pc="268454233" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="612" parent="globals" pc="268454251" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="613" parent="globals" pc="268454270" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="615" parent="globals" pc="268454293" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="616" parent="globals" pc="268454300" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="617" parent="globals" pc="268454318" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="618" parent="globals" pc="268454337" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="619" parent="globals" pc="268454351" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="620" parent="globals" pc="268454361" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="620" parent="globals" pc="268454369" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="622" parent="globals" pc="268454376" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="625" parent="globals" pc="268454396" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="627" parent="globals" pc="268454409" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="628" parent="globals" pc="268454427" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="631" parent="globals" pc="268454471" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="632" parent="globals" pc="268454528" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="634" parent="globals" pc="268454544" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="635" parent="globals" pc="268454581" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="638" parent="globals" pc="268454597" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="639" parent="globals" pc="268454634" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="642" parent="globals" pc="268454653" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="643" parent="globals" pc="268454664" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="646" parent="globals" pc="268454683" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="647" parent="globals" pc="268454694" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="650" parent="globals" pc="268454713" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="651" parent="globals" pc="268454729" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="53" lineNum="652" parent="globals" pc="268454766" symbol="calcscores"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="54" lineNum="868" parent="globals/YahtzeeSettings" pc="268454786" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="869" parent="globals/YahtzeeSettings" pc="268454805" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="870" parent="globals/YahtzeeSettings" pc="268454809" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="871" parent="globals/YahtzeeSettings" pc="268454828" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="873" parent="globals/YahtzeeSettings" pc="268454851" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="874" parent="globals/YahtzeeSettings" pc="268454887" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="875" parent="globals/YahtzeeSettings" pc="268454923" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="877" parent="globals/YahtzeeSettings" pc="268454959" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="878" parent="globals/YahtzeeSettings" pc="268455033" symbol="initialize"/>
+<entry filename="C:\\Garmin\\Projects\\Yahtzee\\source\\YahtzeeView.mc" id="55" lineNum="879" parent="globals/YahtzeeSettings" pc="268455107" symbol="initialize"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="56" lineNum="22" parent="globals/Rez/Menus/MainMenu" pc="268455182" symbol="&lt;init&gt;"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="57" lineNum="23" parent="globals/Rez/Menus/MainMenu" pc="268455201" symbol="initialize"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="57" lineNum="24" parent="globals/Rez/Menus/MainMenu" pc="268455203" symbol="initialize"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="57" lineNum="25" parent="globals/Rez/Menus/MainMenu" pc="268455221" symbol="initialize"/>
+<entry filename="c:\\Garmin\\Projects\\Yahtzee\\gen\\006-B4260-00\\source\\Rez.mcgen" id="57" lineNum="26" parent="globals/Rez/Menus/MainMenu" pc="268455277" symbol="initialize"/>
+</pcToLineNum>
+<symbolTable>
+<entry field="true" id="59" symbol="newcolor"/>
+<entry id="8388639" module="true" symbol="Graphics"/>
+<entry field="true" id="80" symbol="shadowcolor"/>
+<entry field="true" id="51" symbol="histmode"/>
+<entry field="true" id="54" symbol="layout"/>
+<entry field="true" id="98" symbol="&lt;globals/CustomItem/&lt;&gt;_id&gt;"/>
+<entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+<entry field="true" id="96" symbol="&lt;globals/CustomItem/&lt;&gt;_date2&gt;"/>
+<entry id="101" method="true" symbol="getScore"/>
+<entry field="true" id="38" symbol="diceY"/>
+<entry field="true" id="37" symbol="diceX"/>
+<entry field="true" id="36" symbol="diceW"/>
+<entry id="7" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="35" symbol="diceH"/>
+<entry field="true" id="44" symbol="dieY"/>
+<entry field="true" id="43" symbol="dieX"/>
+<entry field="true" id="42" symbol="dieW"/>
+<entry field="true" id="41" symbol="dieR"/>
+<entry field="true" id="40" symbol="dieH"/>
+<entry field="true" id="39" symbol="dieG"/>
+<entry id="17" object="true" symbol="YahtzeeHighScoresDelegate"/>
+<entry id="9" object="true" symbol="CustomIcon"/>
+<entry field="true" id="73" symbol="scoreposcolor"/>
+<entry field="true" id="58" symbol="newY"/>
+<entry field="true" id="57" symbol="newX"/>
+<entry field="true" id="67" symbol="rollcolor"/>
+<entry id="81" method="true" symbol="showhighscores"/>
+<entry id="8390424" module="true" symbol="Storage"/>
+<entry field="true" id="8391941" symbol="theme"/>
+<entry field="true" id="22" symbol="autos"/>
+<entry id="15" object="true" symbol="YahtzeeApp"/>
+<entry field="true" id="8388611" module="true" symbol="Toybox"/>
+<entry id="105" method="true" symbol="drawscores"/>
+<entry field="true" id="28" symbol="canhold"/>
+<entry id="94" method="true" symbol="inbox"/>
+<entry field="true" id="52" symbol="histmoment"/>
+<entry field="true" id="109" symbol="AppName"/>
+<entry id="8" module="true" symbol="globals/Rez/Strings"/>
+<entry id="8389080" method="true" symbol="onMenu"/>
+<entry id="8388772" module="true" object="true" symbol="Fonts"/>
+<entry field="true" id="53" symbol="holdcolor"/>
+<entry id="8388648" module="true" symbol="WatchUi"/>
+<entry id="8389081" method="true" symbol="onBack"/>
+<entry field="true" id="71" symbol="scoreY"/>
+<entry field="true" id="70" symbol="scoreX"/>
+<entry id="2" module="true" symbol="globals/Rez"/>
+<entry field="true" id="112" symbol="prompt"/>
+<entry field="true" id="86" symbol="sort"/>
+<entry id="19" object="true" symbol="YahtzeeSettings"/>
+<entry id="8389124" method="true" symbol="onUpdate"/>
+<entry id="20" object="true" symbol="YahtzeeView"/>
+<entry field="true" id="97" symbol="&lt;globals/CustomItem/&lt;&gt;_flag&gt;"/>
+<entry field="true" id="32" symbol="center"/>
+<entry field="true" id="83" symbol="so"/>
+<entry id="8388771" module="true" object="true" symbol="Drawables"/>
+<entry id="102" method="true" symbol="drawbuttons"/>
+<entry id="114" symbol="item_2"/>
+<entry id="113" symbol="item_1"/>
+<entry id="92" module="true" symbol="Menus"/>
+<entry id="8389275" method="true" symbol="getApp"/>
+<entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+<entry id="100" method="true" symbol="getDate"/>
+<entry field="true" id="84" symbol="soh"/>
+<entry field="true" id="72" symbol="scorecolor"/>
+<entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="104" method="true" symbol="drawpips"/>
+<entry field="true" id="89" symbol="tiny"/>
+<entry field="true" id="95" symbol="&lt;globals/CustomItem/&lt;&gt;_date&gt;"/>
+<entry field="true" id="88" symbol="themes"/>
+<entry id="8389098" method="true" symbol="onTap"/>
+<entry field="true" id="85" symbol="solid"/>
+<entry field="true" id="87" symbol="sorts"/>
+<entry id="69" method="true" symbol="savehistory"/>
+<entry id="10" object="true" symbol="CustomItem"/>
+<entry id="5" module="true" symbol="globals/Rez/JsonData"/>
+<entry id="60" method="true" symbol="newgame"/>
+<entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="18" object="true" symbol="YahtzeeMenuDelegate"/>
+<entry id="108" object="true" symbol="MainMenu"/>
+<entry field="true" id="14" symbol="SW"/>
+<entry field="true" id="13" symbol="SH"/>
+<entry field="true" id="99" symbol="&lt;globals/CustomItem/&lt;&gt;_score&gt;"/>
+<entry id="16" object="true" symbol="YahtzeeDelegate"/>
+<entry field="true" id="31" symbol="canscore"/>
+<entry id="8388644" module="true" symbol="System"/>
+<entry id="106" method="true" symbol="setlayout"/>
+<entry field="true" id="93" symbol="&lt;globals/CustomIcon/&lt;&gt;_index&gt;"/>
+<entry id="8389619" method="true" symbol="onSelect"/>
+<entry id="8388645" module="true" symbol="Time"/>
+<entry id="8388769" module="true" object="true" symbol="Rez"/>
+<entry field="true" id="11" symbol="DS"/>
+<entry field="true" id="79" symbol="shadow"/>
+<entry field="true" id="78" symbol="scoresY"/>
+<entry field="true" id="77" symbol="scoresX"/>
+<entry field="true" id="76" symbol="scoresW"/>
+<entry field="true" id="75" symbol="scoresH"/>
+<entry field="true" id="74" symbol="scoresG"/>
+<entry field="true" id="29" symbol="cannew"/>
+<entry field="true" id="21" symbol="auto"/>
+<entry id="8388640" module="true" symbol="Lang"/>
+<entry id="8390088" module="true" object="true" symbol="JsonData"/>
+<entry field="true" id="45" symbol="diecolor"/>
+<entry id="8389068" method="true" symbol="draw"/>
+<entry field="true" id="64" symbol="right"/>
+<entry field="true" id="107" symbol="LauncherIcon"/>
+<entry id="103" method="true" symbol="drawdice"/>
+<entry id="8388610" symbol="statics"/>
+<entry id="8389123" method="true" symbol="onShow"/>
+<entry field="true" id="30" symbol="canroll"/>
+<entry id="8389350" module="true" symbol="globals"/>
+<entry id="68" method="true" symbol="rolldice"/>
+<entry field="true" id="50" symbol="game"/>
+<entry id="8388770" module="true" object="true" symbol="Strings"/>
+<entry field="true" id="34" symbol="centerY"/>
+<entry field="true" id="33" symbol="centerX"/>
+<entry field="true" id="48" symbol="finalscoreXY"/>
+<entry id="8388702" method="true" symbol="initialize"/>
+<entry id="26" method="true" symbol="calcscore"/>
+<entry field="true" id="46" symbol="finalscoreWH"/>
+<entry id="8389279" method="true" symbol="onStart"/>
+<entry field="true" id="63" symbol="pscores"/>
+<entry id="8388641" module="true" symbol="Math"/>
+<entry field="true" id="66" symbol="rollY"/>
+<entry field="true" id="65" symbol="rollX"/>
+<entry field="true" id="61" symbol="nopecolor"/>
+<entry id="8389280" method="true" symbol="getInitialView"/>
+<entry id="8389281" method="true" symbol="onStop"/>
+<entry field="true" id="62" symbol="pipR"/>
+<entry id="12" object="true" symbol="DrawableMenuTitle"/>
+<entry field="true" id="90" symbol="tscorecolor"/>
+<entry id="27" method="true" symbol="calcscores"/>
+<entry field="true" id="82" symbol="small"/>
+<entry id="91" module="true" symbol="Layouts"/>
+<entry field="true" id="49" symbol="finalscoreY"/>
+<entry field="true" id="47" symbol="finalscoreX"/>
+<entry field="true" id="55" symbol="left"/>
+<entry id="4" module="true" symbol="globals/Rez/Fonts"/>
+<entry field="true" id="56" symbol="mydc"/>
+<entry id="8389125" method="true" symbol="onHide"/>
+<entry field="true" id="25" symbol="buttonW"/>
+<entry field="true" id="24" symbol="buttonR"/>
+<entry field="true" id="23" symbol="buttonH"/>
+<entry id="8388635" module="true" symbol="Application"/>
+<entry field="true" id="8389642" symbol="title"/>
+<entry field="true" id="111" symbol="menu_label_2"/>
+<entry field="true" id="110" symbol="menu_label_1"/>
+</symbolTable>
+<localVars>
+<entry endPc="268436747" name="scores" stackId="1" startPc="268436486"/>
+<entry endPc="268436747" name="score" stackId="2" startPc="268436486"/>
+<entry endPc="268436747" name="bonus" stackId="3" startPc="268436486"/>
+<entry endPc="268436619" name="i" stackId="4" startPc="268436548"/>
+<entry arg="true" endPc="268437193" name="item" stackId="1" startPc="268436813"/>
+<entry arg="true" endPc="268438212" name="pos" stackId="1" startPc="268437633"/>
+<entry endPc="268438211" name="hist" stackId="2" startPc="268437645"/>
+<entry endPc="268438211" name="menu" stackId="3" startPc="268437645"/>
+<entry endPc="268438211" name="momentA" stackId="4" startPc="268437645"/>
+<entry endPc="268438211" name="scoreA" stackId="5" startPc="268437645"/>
+<entry endPc="268437872" name="i" stackId="6" startPc="268437809"/>
+<entry endPc="268438195" name="toast" stackId="7" startPc="268437929"/>
+<entry endPc="268439094" name="state" stackId="1" startPc="268438225"/>
+<entry endPc="268439094" name="dice" stackId="2" startPc="268438225"/>
+<entry endPc="268439094" name="held" stackId="3" startPc="268438225"/>
+<entry endPc="268439094" name="tmp" stackId="4" startPc="268438225"/>
+<entry endPc="268439094" name="hv" stackId="5" startPc="268438225"/>
+<entry endPc="268438471" name="i" stackId="6" startPc="268438412"/>
+<entry endPc="268438565" name="i" stackId="7" startPc="268438490"/>
+<entry endPc="268438631" name="i" stackId="8" startPc="268438601"/>
+<entry endPc="268439044" name="i" stackId="9" startPc="268438667"/>
+<entry endPc="268439031" name="j" stackId="10" startPc="268438694"/>
+<entry endPc="268439018" name="cond" stackId="11" startPc="268438694"/>
+<entry arg="true" endPc="268439446" name="dc" stackId="1" startPc="268439142"/>
+<entry endPc="268439445" name="w" stackId="2" startPc="268439146"/>
+<entry endPc="268439445" name="h" stackId="3" startPc="268439146"/>
+<entry endPc="268439445" name="bx" stackId="4" startPc="268439146"/>
+<entry endPc="268439445" name="bw" stackId="5" startPc="268439146"/>
+<entry endPc="268439445" name="nx" stackId="6" startPc="268439146"/>
+<entry endPc="268439445" name="dx" stackId="7" startPc="268439146"/>
+<entry endPc="268439445" name="sx" stackId="8" startPc="268439146"/>
+<entry endPc="268439445" name="ty" stackId="9" startPc="268439146"/>
+<entry endPc="268439445" name="hy" stackId="10" startPc="268439146"/>
+<entry arg="true" endPc="268439502" name="index" stackId="1" startPc="268439466"/>
+<entry arg="true" endPc="268439539" name="dc" stackId="1" startPc="268439503"/>
+<entry arg="true" endPc="268441097" name="clickEvent" stackId="1" startPc="268439658"/>
+<entry endPc="268441097" name="xy" stackId="2" startPc="268439662"/>
+<entry endPc="268441097" name="state" stackId="3" startPc="268439662"/>
+<entry endPc="268441097" name="scores" stackId="4" startPc="268439662"/>
+<entry endPc="268440549" name="held" stackId="5" startPc="268440342"/>
+<entry endPc="268440549" name="i" stackId="6" startPc="268440384"/>
+<entry endPc="268441045" name="remaining" stackId="7" startPc="268440561"/>
+<entry endPc="268440634" name="i" stackId="8" startPc="268440598"/>
+<entry endPc="268441045" name="i" stackId="9" startPc="268440659"/>
+<entry endPc="268441013" name="pos" stackId="10" startPc="268440944"/>
+<entry arg="true" endPc="268441212" name="boxxy" stackId="1" startPc="268441098"/>
+<entry arg="true" endPc="268441212" name="boxwh" stackId="2" startPc="268441098"/>
+<entry arg="true" endPc="268441212" name="point" stackId="3" startPc="268441098"/>
+<entry arg="true" endPc="268441511" name="id" stackId="1" startPc="268441243"/>
+<entry arg="true" endPc="268441511" name="moment" stackId="2" startPc="268441243"/>
+<entry arg="true" endPc="268441511" name="score" stackId="3" startPc="268441243"/>
+<entry arg="true" endPc="268441511" name="flag" stackId="4" startPc="268441243"/>
+<entry endPc="268441510" name="info" stackId="5" startPc="268441247"/>
+<entry arg="true" endPc="268441903" name="dc" stackId="1" startPc="268441512"/>
+<entry endPc="268441902" name="w" stackId="2" startPc="268441516"/>
+<entry endPc="268441902" name="h" stackId="3" startPc="268441516"/>
+<entry endPc="268441902" name="bx" stackId="4" startPc="268441516"/>
+<entry endPc="268441902" name="bw" stackId="5" startPc="268441516"/>
+<entry endPc="268441902" name="nx" stackId="6" startPc="268441516"/>
+<entry endPc="268441902" name="dx" stackId="7" startPc="268441516"/>
+<entry endPc="268441902" name="sx" stackId="8" startPc="268441516"/>
+<entry endPc="268441902" name="id" stackId="9" startPc="268441516"/>
+<entry endPc="268442569" name="ret" stackId="1" startPc="268441927"/>
+<entry endPc="268442569" name="max" stackId="2" startPc="268441927"/>
+<entry endPc="268442569" name="scores" stackId="3" startPc="268441927"/>
+<entry endPc="268442569" name="score" stackId="4" startPc="268441927"/>
+<entry endPc="268442569" name="hist" stackId="5" startPc="268441927"/>
+<entry endPc="268442569" name="momentA" stackId="6" startPc="268441927"/>
+<entry endPc="268442569" name="scoreA" stackId="7" startPc="268441927"/>
+<entry endPc="268442569" name="scoresA" stackId="8" startPc="268441927"/>
+<entry endPc="268442569" name="size" stackId="9" startPc="268441927"/>
+<entry endPc="268442569" name="inserted" stackId="10" startPc="268441927"/>
+<entry endPc="268442398" name="i" stackId="11" startPc="268442165"/>
+<entry endPc="268442331" name="j" stackId="12" startPc="268442271"/>
+<entry arg="true" endPc="268444473" name="dc" stackId="1" startPc="268442589"/>
+<entry endPc="268444472" name="scores" stackId="2" startPc="268442593"/>
+<entry endPc="268444472" name="score" stackId="3" startPc="268442593"/>
+<entry endPc="268444472" name="slots" stackId="4" startPc="268442593"/>
+<entry endPc="268444472" name="state" stackId="5" startPc="268442593"/>
+<entry endPc="268443828" name="i" stackId="6" startPc="268442908"/>
+<entry endPc="268444404" name="i" stackId="7" startPc="268443862"/>
+<entry arg="true" endPc="268445909" name="die" stackId="1" startPc="268444474"/>
+<entry arg="true" endPc="268445909" name="mX" stackId="2" startPc="268444474"/>
+<entry arg="true" endPc="268445909" name="mY" stackId="3" startPc="268444474"/>
+<entry arg="true" endPc="268445909" name="offset" stackId="4" startPc="268444474"/>
+<entry arg="true" endPc="268446137" name="dc" stackId="1" startPc="268445910"/>
+<entry arg="true" endPc="268447239" name="dc" stackId="1" startPc="268446138"/>
+<entry endPc="268446593" name="info" stackId="2" startPc="268446153"/>
+<entry endPc="268446593" name="hour" stackId="3" startPc="268446153"/>
+<entry endPc="268446593" name="ampm" stackId="4" startPc="268446153"/>
+<entry endPc="268446593" name="time" stackId="5" startPc="268446153"/>
+<entry endPc="268446593" name="date" stackId="6" startPc="268446153"/>
+<entry endPc="268447238" name="dice" stackId="7" startPc="268446142"/>
+<entry endPc="268447238" name="held" stackId="8" startPc="268446142"/>
+<entry endPc="268447238" name="state" stackId="9" startPc="268446142"/>
+<entry endPc="268447238" name="dX" stackId="10" startPc="268446142"/>
+<entry endPc="268447238" name="dY" stackId="11" startPc="268446142"/>
+<entry endPc="268447238" name="mX" stackId="12" startPc="268446142"/>
+<entry endPc="268447238" name="mY" stackId="13" startPc="268446142"/>
+<entry endPc="268447238" name="i" stackId="14" startPc="268446684"/>
+<entry arg="true" endPc="268450463" name="dc" stackId="1" startPc="268447240"/>
+<entry endPc="268450462" name="state" stackId="2" startPc="268447244"/>
+<entry endPc="268450462" name="roll" stackId="3" startPc="268447244"/>
+<entry endPc="268450462" name="text" stackId="4" startPc="268447244"/>
+<entry arg="true" endPc="268451188" name="dc" stackId="1" startPc="268450464"/>
+<entry endPc="268451187" name="state" stackId="2" startPc="268450468"/>
+<entry endPc="268451187" name="score" stackId="3" startPc="268450468"/>
+<entry arg="true" endPc="268453224" name="lo" stackId="1" startPc="268451189"/>
+<entry endPc="268453223" name="rowH" stackId="2" startPc="268451193"/>
+<entry endPc="268453223" name="row3" stackId="3" startPc="268451193"/>
+<entry endPc="268453223" name="row2" stackId="4" startPc="268451193"/>
+<entry endPc="268453223" name="row1" stackId="5" startPc="268451193"/>
+<entry endPc="268453223" name="row4" stackId="6" startPc="268451193"/>
+<entry endPc="268453223" name="row5" stackId="7" startPc="268451193"/>
+<entry endPc="268453223" name="scX" stackId="8" startPc="268451193"/>
+<entry endPc="268453223" name="scY" stackId="9" startPc="268451193"/>
+<entry endPc="268452731" name="i" stackId="10" startPc="268452657"/>
+<entry endPc="268452885" name="c" stackId="11" startPc="268452750"/>
+<entry endPc="268452872" name="r" stackId="12" startPc="268452768"/>
+<entry arg="true" endPc="268453788" name="item" stackId="1" startPc="268453442"/>
+<entry endPc="268453787" name="id" stackId="2" startPc="268453446"/>
+<entry endPc="268453787" name="hist" stackId="3" startPc="268453446"/>
+<entry endPc="268453787" name="momentA" stackId="4" startPc="268453446"/>
+<entry endPc="268453787" name="scoresA" stackId="5" startPc="268453446"/>
+<entry endPc="268453787" name="scoreA" stackId="6" startPc="268453446"/>
+<entry endPc="268454784" name="dice" stackId="1" startPc="268453801"/>
+<entry endPc="268454784" name="counts" stackId="2" startPc="268453801"/>
+<entry endPc="268454784" name="numcounts" stackId="3" startPc="268453801"/>
+<entry endPc="268454784" name="sum" stackId="4" startPc="268453801"/>
+<entry endPc="268454784" name="con" stackId="5" startPc="268453801"/>
+<entry endPc="268454292" name="i" stackId="6" startPc="268454251"/>
+<entry endPc="268454784" name="tmp" stackId="7" startPc="268453801"/>
+<entry endPc="268454395" name="i" stackId="8" startPc="268454318"/>
+<entry endPc="268454470" name="i" stackId="9" startPc="268454427"/>
+<entry endPc="268455180" name="themeicon" stackId="1" startPc="268454809"/>
+<entry endPc="268455180" name="sorticon" stackId="2" startPc="268454809"/>
+<entry endPc="268455180" name="autoicon" stackId="3" startPc="268454809"/>
+</localVars>
+<annotations>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_2"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="menu_label_1"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="prompt"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+</annotations>
+<dataEntryOffsetMappings>
+<dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+<dataEntry label="globals/YahtzeeMenuDelegate" offset="926" parentId="globals" symbolId="YahtzeeMenuDelegate" type="class"/>
+<dataEntry label="globals/Rez" offset="989" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/DrawableMenuTitle" offset="1068" parentId="globals" symbolId="DrawableMenuTitle" type="class"/>
+<dataEntry label="globals/CustomIcon" offset="1123" parentId="globals" symbolId="CustomIcon" type="class"/>
+<dataEntry label="globals/YahtzeeDelegate" offset="1186" parentId="globals" symbolId="YahtzeeDelegate" type="class"/>
+<dataEntry label="globals/CustomItem" offset="1257" parentId="globals" symbolId="CustomItem" type="class"/>
+<dataEntry label="globals/YahtzeeView" offset="1368" parentId="globals" symbolId="YahtzeeView" type="class"/>
+<dataEntry label="globals/YahtzeeApp" offset="1487" parentId="globals" symbolId="YahtzeeApp" type="class"/>
+<dataEntry label="globals/YahtzeeHighScoresDelegate" offset="1558" parentId="globals" symbolId="YahtzeeHighScoresDelegate" type="class"/>
+<dataEntry label="globals/YahtzeeSettings" offset="1621" parentId="globals" symbolId="YahtzeeSettings" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="1668" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="1707" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="1738" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="1777" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="1808" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="1871" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/Menus/MainMenu" offset="1902" parentId="Menus" symbolId="MainMenu" type="class"/>
+</dataEntryOffsetMappings>
+<functions>
+<functionEntry accessMode="public" endPc="268436748" name="calcscore" startPc="268436474">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436767" name="&lt;init&gt;" parent="YahtzeeMenuDelegate" startPc="268436749">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436791" name="onBack" parent="YahtzeeMenuDelegate" startPc="268436768">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436812" name="initialize" parent="YahtzeeMenuDelegate" startPc="268436792">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437193" name="onSelect" parent="YahtzeeMenuDelegate" startPc="268436813">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437217" name="&lt;init&gt;" parent="Rez" startPc="268437194">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268437632" name="newgame" startPc="268437218">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268438212" name="showhighscores" startPc="268437633">
+<param id="pos"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439095" name="rolldice" startPc="268438213">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439114" name="&lt;init&gt;" parent="DrawableMenuTitle" startPc="268439096">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439141" name="initialize" parent="DrawableMenuTitle" startPc="268439115">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439446" name="draw" parent="DrawableMenuTitle" startPc="268439142">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439465" name="&lt;init&gt;" parent="CustomIcon" startPc="268439447">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439502" name="initialize" parent="CustomIcon" startPc="268439466">
+<param id="index"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439539" name="draw" parent="CustomIcon" startPc="268439503">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439558" name="&lt;init&gt;" parent="YahtzeeDelegate" startPc="268439540">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439636" name="onMenu" parent="YahtzeeDelegate" startPc="268439559">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268439657" name="initialize" parent="YahtzeeDelegate" startPc="268439637">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441097" name="onTap" parent="YahtzeeDelegate" startPc="268439658">
+<param id="clickEvent"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441212" name="inbox" parent="YahtzeeDelegate" startPc="268441098">
+<param id="boxxy"/>
+<param id="boxwh"/>
+<param id="point"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441231" name="&lt;init&gt;" parent="CustomItem" startPc="268441213">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441242" name="getDate" parent="CustomItem" startPc="268441232">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441511" name="initialize" parent="CustomItem" startPc="268441243">
+<param id="id"/>
+<param id="moment"/>
+<param id="score"/>
+<param id="flag"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441903" name="draw" parent="CustomItem" startPc="268441512">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268441914" name="getScore" parent="CustomItem" startPc="268441904">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442569" name="savehistory" startPc="268441915">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268442588" name="&lt;init&gt;" parent="YahtzeeView" startPc="268442570">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268444473" name="drawscores" parent="YahtzeeView" startPc="268442589">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onShow" parent="YahtzeeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268445909" name="drawpips" parent="YahtzeeView" startPc="268444474">
+<param id="die"/>
+<param id="mX"/>
+<param id="mY"/>
+<param id="offset"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268446137" name="onLayout" parent="YahtzeeView" startPc="268445910">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268447239" name="drawdice" parent="YahtzeeView" startPc="268446138">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="initialize" parent="YahtzeeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onHide" parent="YahtzeeView">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268450463" name="drawbuttons" parent="YahtzeeView" startPc="268447240">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268451188" name="onUpdate" parent="YahtzeeView" startPc="268450464">
+<param id="dc"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453224" name="setlayout" parent="YahtzeeView" startPc="268451189">
+<param id="lo"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453250" name="getApp" startPc="268453225">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453269" name="&lt;init&gt;" parent="YahtzeeApp" startPc="268453251">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStart" parent="YahtzeeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453346" name="getInitialView" parent="YahtzeeApp" startPc="268453270">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453367" name="initialize" parent="YahtzeeApp" startPc="268453347">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="onStop" parent="YahtzeeApp">
+<param id="state"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453386" name="&lt;init&gt;" parent="YahtzeeHighScoresDelegate" startPc="268453368">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453420" name="onBack" parent="YahtzeeHighScoresDelegate" startPc="268453387">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453441" name="initialize" parent="YahtzeeHighScoresDelegate" startPc="268453421">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268453788" name="onSelect" parent="YahtzeeHighScoresDelegate" startPc="268453442">
+<param id="item"/>
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268454785" name="calcscores" startPc="268453789">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268454804" name="&lt;init&gt;" parent="YahtzeeSettings" startPc="268454786">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268455181" name="initialize" parent="YahtzeeSettings" startPc="268454805">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Drawables">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Layouts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Menus">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Fonts">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="Strings">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268455200" name="&lt;init&gt;" parent="MainMenu" startPc="268455182">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268455333" name="initialize" parent="MainMenu" startPc="268455201">
+<documentation/>
+</functionEntry>
+</functions>
+</debugInfo>
